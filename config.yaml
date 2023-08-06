@@ -58,19 +58,13 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
-      weight: 2
-    - name: nature
-      url: /tags/nature/
-      weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
     - name: about
       url: /about/
       weight: 5
+    - name: resume
+      url: /resume/
+      weight: 6
     - name: contact
       url: /contact/
-      weight: 5
+      weight: 7
       
