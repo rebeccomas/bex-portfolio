@@ -29,3 +29,10 @@ Some list
 1. A b c
 2. A b c
 3. A b c 
+
+### You can add an image in markdown like this. 
+(Make sure it's in the static folder)
+![](/images/me.jpeg)
+
+## Images need description
+Tell the story of each project
