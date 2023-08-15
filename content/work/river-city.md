@@ -1,8 +1,7 @@
 ---
 weight: 9
 images:
-- /images/me.jpeg
-- /images/me.jpeg
+- /images/river-city-mockup.png
 multipleColumn: false
 title: River City Soccer Club
 subtitle: Landing page design
@@ -15,23 +14,23 @@ hideDate: true
 hideExif: true
 ---
 
-## Markdown
+River City Football Club decided to run a marketing campaign to get the word out about their 2022 season tryouts. My responsibility was to design a landing page and social media ads that matched their existing branding and conveyed the exciting, high caliber persona they wanted to present. I went with a duotone color treatment using their light and dark blue brand colors, which I applied to the photography (which was provided by the client) as well as the landing page's colors. The call to action buttons are always visible in a sticky footer that invites the user to register for tryouts at any point as they scroll through the landing page.
 
-You can use **Markdown** format to write **your story**.
+## Styles
 
-### Subtitle
+![](/images/river-city/colors.png)
+![](/images/river-city/fonts.png)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+## The Site
 
-Some list
+![](/images/river-city/Desktop-Abend.jpg)
 
-1. A b c
-2. A b c
-3. A b c 
+![](/images/river-city/RiverCity-Mobile.png)
 
-### You can add an image in markdown like this. 
-(Make sure it's in the static folder)
-![](/images/me.jpeg)
+## Social Media Ads
 
-## Images need description
-Tell the story of each project
+![](/images/river-city/RiverCity_FacebookAd.png)
+
+![](/images/river-city/Facebook_Abend.jpg)
+
+Designed while working at Studio 2108.

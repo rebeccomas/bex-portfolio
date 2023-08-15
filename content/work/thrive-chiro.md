@@ -1,8 +1,7 @@
 ---
 weight: 9
 images:
-- /images/me.jpeg
-- /images/me.jpeg
+- /images/thrive-mockup.png
 multipleColumn: false
 title: Thrive for Life Chiropractic
 subtitle: Website design, stationery
@@ -15,23 +14,33 @@ hideDate: true
 hideExif: true
 ---
 
-## Markdown
+Thrive for Life Chiropractic came to us wanting a redesign of their website and a refresh to their branding in general. They wanted a look that felt life-giving, organic, and fun. I designed a site with colorful graphics that guide the user's eye in curves down the page, interspersed with playful leaves that echo the tree in Thrive's logo.
 
-You can use **Markdown** format to write **your story**.
+I also designed print materials including an envelop and gift certificate.
 
-### Subtitle
+## Styles
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+![](/images/thrive/colors.png)
+![](/images/thrive/fonts.png)
 
-Some list
+## The Site
 
-1. A b c
-2. A b c
-3. A b c 
+### Desktop
+![](/images/thrive/Home-Desktop.png)
+![](/images/thrive/Interior-Desktop.png)
 
-### You can add an image in markdown like this. 
-(Make sure it's in the static folder)
-![](/images/me.jpeg)
+### Mobile
+![](/images/thrive/Home-Mobile.png)
+![](/images/thrive/Interior-Mobile.png)
 
-## Images need description
-Tell the story of each project
+
+[*View the site*](https://thrive4lifenow.com)
+
+(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
+
+
+## Gift Certificate and Envelope
+
+![](/images/thrive/print/card-and-envelope.jpg)
+
+Designed while working at Studio 2108.

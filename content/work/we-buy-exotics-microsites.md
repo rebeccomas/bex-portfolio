@@ -1,11 +1,10 @@
 ---
 weight: 9
 images:
-- /images/me.jpeg
-- /images/me.jpeg
+- /images/wbe-mockup-ferrari.png
 multipleColumn: false
 title: We Buy Exotics Microsite
-subtitle: Website designs
+subtitle: Microsite designs and frontend Wordpress development
 tags:
 - work
 date: 2023-08-05
@@ -15,23 +14,48 @@ hideDate: true
 hideExif: true
 ---
 
-## Markdown
+To boost their SEO, We Buy Exotics wanted to create serveral microsites, each emphasizing that they buy a particular kind of luxury vehicle. We started with just the Ferrari and Lamborghini sites. My responsibility was to design the microsites in a way that looked distinct from We Buy Exotics' main primary branding, while appearing slick, inviting, and trustworthy, as you would want a luxury car buyer to be. While the sites needed to be distinct from the main We Buy Exotics site, they did not need to be as distinct from each other, so we were able to use the same site design for all the microsites, with a unique accent color for each. I designed the site with easy access to the contact form at the top of the page, as well as call to action buttons dispersed throughout each page that make it easy for the user to request a quote whenever they're ready. 
 
-You can use **Markdown** format to write **your story**.
+Once the designs were approved for development, I was also responsible for building each of these sites in Wordpress using the Avada theme, as well as the css styles.
 
-### Subtitle
+## Sell My Ferrari Microsite
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+### Styles
 
-Some list
+![](/images/wbe/colors.png)
+![](/images/wbe/fonts.png)
 
-1. A b c
-2. A b c
-3. A b c 
+### The Site
 
-### You can add an image in markdown like this. 
-(Make sure it's in the static folder)
-![](/images/me.jpeg)
+#### Home
+![](/images/wbe/SellMyFerrari-Home.png)
 
-## Images need description
-Tell the story of each project
+#### Interior
+![](/images/wbe/SellMyFerrari-Interior.png)
+
+Designed while working at Studio 2108.
+
+[View the site](https://sellmyferrari.com)
+
+(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
+
+## Sell Your Lamborghini Microsite
+
+### Styles
+
+![](/images/wbe/lambo-colors.png)
+![](/images/wbe/lambo-fonts.png)
+
+### The Site
+
+#### Home
+![](/images/wbe/SellYourLambo-Home.png)
+
+#### Interior
+![](/images/wbe/SellYourLambo-Interior.png)
+
+Designed while working at Studio 2108.
+
+[View the site](https://sellyourlamborghini.com)
+
+(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)

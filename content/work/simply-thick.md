@@ -1,8 +1,7 @@
 ---
 weight: 9
 images:
-- /images/me.jpeg
-- /images/me.jpeg
+- /images/simply-thick-mockup.png
 multipleColumn: false
 title: Simply Thick
 subtitle: Website design
@@ -15,23 +14,23 @@ hideDate: true
 hideExif: true
 ---
 
-## Markdown
+Simply Thick came to us for a website to advertise their new cookbook, *Modern Dysphagia Cooking*.  They wanted a website that was playful and highlighted the food photography from their recipes, communicating that cooking for Dysphagia can be tasty and fun. I used graphics and color treatments that are reminiscent of the cookbook's design itself to create a fun, image-prominant site that matches the book's branding.
 
-You can use **Markdown** format to write **your story**.
+## Styles
 
-### Subtitle
+![](/images/simply-thick/st-colors.png)
+![](/images/simply-thick/st-fonts.png)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+## The Site
 
-Some list
+![](/images/simply-thick/home.png)
 
-1. A b c
-2. A b c
-3. A b c 
+![](/images/simply-thick/about-the-authors.png)
 
-### You can add an image in markdown like this. 
-(Make sure it's in the static folder)
-![](/images/me.jpeg)
+![](/images/simply-thick/about-the-book.png)
 
-## Images need description
-Tell the story of each project
+Designed while working at Studio 2108.
+
+[View the site](https://moderndysphagiacooking.com)
+
+(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
