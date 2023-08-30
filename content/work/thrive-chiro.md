@@ -9,10 +9,12 @@ tags:
 - work
 date: 2023-08-05
 url: thrive-chiro
-hideTitle: false
+hideTitle: true
 hideDate: true
 hideExif: true
 ---
+# Thrive for Live Chiropractic
+<div class="subtitle">Website Redesign, Stationery</div>
 
 Thrive for Life Chiropractic came to us wanting a redesign of their website and a refresh to their branding in general. They wanted a look that felt life-giving, organic, and fun. I designed a site with colorful graphics that guide the user's eye in curves down the page, interspersed with playful leaves that echo the tree in Thrive's logo.
 

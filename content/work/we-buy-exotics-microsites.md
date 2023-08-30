@@ -9,10 +9,12 @@ tags:
 - work
 date: 2023-08-05
 url: we-buy-exotics-microsites
-hideTitle: false
+hideTitle: true
 hideDate: true
 hideExif: true
 ---
+# We Buy Exotics Microsites
+<div class="subtitle">Design and Frontend Wordpress Development</div>
 
 To boost their SEO, We Buy Exotics wanted to create serveral microsites, each emphasizing that they buy a particular kind of luxury vehicle. We started with just the Ferrari and Lamborghini sites. My responsibility was to design the microsites in a way that looked distinct from We Buy Exotics' main primary branding, while appearing slick, inviting, and trustworthy, as you would want a luxury car buyer to be. While the sites needed to be distinct from the main We Buy Exotics site, they did not need to be as distinct from each other, so we were able to use the same site design for all the microsites, with a unique accent color for each. I designed the site with easy access to the contact form at the top of the page, as well as call to action buttons dispersed throughout each page that make it easy for the user to request a quote whenever they're ready. 
 
@@ -28,16 +30,14 @@ Once the designs were approved for development, I was also responsible for build
 ### The Site
 
 #### Home
-![](/images/wbe/SellMyFerrari-Home.png)
+<div class="scroll-box"><img src="/images/wbe/SellMyFerrari-Home.png" alt="Sell Your Ferrari Home"/></div>
 
 #### Interior
-![](/images/wbe/SellMyFerrari-Interior.png)
+<div class="scroll-box"><img src="/images/wbe/SellMyFerrari-Interior.png" alt="Sell Your Ferrari Interior"/></div>
 
-Designed while working at Studio 2108.
+<div class="button"><a href="https://sellmyferrari.com">View the site</a></div>
 
-[View the site](https://sellmyferrari.com)
-
-(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
+<div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
 
 ## Sell Your Lamborghini Microsite
 
@@ -49,13 +49,13 @@ Designed while working at Studio 2108.
 ### The Site
 
 #### Home
-![](/images/wbe/SellYourLambo-Home.png)
+<div class="scroll-box"><img src="/images/wbe/SellYourLambo-Home.png" alt="Sell Your Lamborghini Home"/></div>
 
 #### Interior
-![](/images/wbe/SellYourLambo-Interior.png)
+<div class="scroll-box"><img src="/images/wbe/SellYourLambo-Interior.png" alt="Sell Your Lamborghini Interior"/></div>
 
-Designed while working at Studio 2108.
 
-[View the site](https://sellyourlamborghini.com)
 
-(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
+<div class="button"><a href="https://sellyourlamborghini.com">View the site</a></div>
+
+<div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>

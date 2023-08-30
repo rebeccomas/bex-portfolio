@@ -1,0 +1,111 @@
+html{
+    background-color: var(--white);
+    background-color: #F7F7F7;
+}
+
+:root {
+    background-color: var(--white);
+    background-color: #F7F7F7;
+    color: var(--dark);
+    color: #3A4A52;
+}
+
+nav.navbar {
+    background-color: var(--white);
+    background-color: #F7F7F7;
+}
+
+
+ .footer {
+    color: var(--main);
+ }
+
+
+/* Text Colors */
+
+h1, h2, h3, h4, h5, h6 {
+    color: #86A4B4 !important;
+}
+body {
+    color: var(--dark);
+}
+::selection {
+    color: var(--dark);
+}
+a {
+    color: var(--main);
+}
+a:hover, a.active {
+    color: var(--main);
+ }
+
+ /* Slider styles */
+ .slider {
+    background-color: rgba(247, 247, 247, .98);
+ }
+
+ /* Landing page styles */
+ .button.is-white.is-outlined {
+    border-color: var(--main);
+    color: var(--main);
+ }
+
+ 
+
+ /* Text Styles */
+h1 {
+    font-size: 100px !important;
+    font-weight: 200 !important;
+    margin-block-end: 10px !important;
+    line-height: 1 !important;
+}
+ .subtitle {
+    color: var(--main);
+    font-size: 24px !important;
+    font-weight: 200 !important;
+ }
+ h2 {
+    font-size: 64px !important;
+    font-weight: 600 !important;
+    margin-block-end: .1em !important;
+ }
+ h3 {
+    font-size: 36px !important;
+    font-weight: 200 !important;
+    margin-block-start: .2em !important;
+    margin-block-end: .2em !important;
+ }
+ h4 {
+    font-size: 16px !important;
+    font-weight: 800 !important;
+    margin-block-start: .2em !important;
+    margin-block-end: .2em !important;
+ }
+ .small-text {
+    font-size: small;
+ }
+ 
+
+
+ /* Slide Styles */
+ .slide img {
+    max-height: none;
+ }
+
+ /* Button Styles */
+.button {
+    border-radius: 46px;
+    border: 0px solid #ffffff !important;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, .08) !important;
+    font-size: 24px;
+    margin-bottom: .5em;
+}
+
+
+/* Scroll Box Styles */
+
+.scroll-box {
+    max-height: 60vh;
+    overflow: scroll;
+    margin-bottom: 3vh;
+}
