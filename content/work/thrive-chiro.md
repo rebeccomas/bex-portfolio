@@ -28,21 +28,20 @@ I also designed print materials including an envelop and gift certificate.
 ## The Site
 
 ### Desktop
-![](/images/thrive/Home-Desktop.png)
-![](/images/thrive/Interior-Desktop.png)
+<div class="scroll-box"><img src="/images/thrive/Home-Desktop.png" alt="Thrive Desktop Home"/></div>
+<div class="scroll-box"><img src="/images/thrive/Interior-Desktop.png" alt="Thrive Desktop Interior"/></div>
 
 ### Mobile
-![](/images/thrive/Home-Mobile.png)
-![](/images/thrive/Interior-Mobile.png)
+<div class="scroll-box"><img src="/images/thrive/Home-Mobile.png" alt="Thrive Mobile Home"/></div>
+<div class="scroll-box"><img src="/images/thrive/Interior-Mobile.png" alt="Thrive Mobile Interior"/></div>
 
+<div class="button"><a href="https://thrive4lifenow.com">View the site</a></div>
 
-[*View the site*](https://thrive4lifenow.com)
-
-(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
+<div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
 
 
 ## Gift Certificate and Envelope
 
 ![](/images/thrive/print/card-and-envelope.jpg)
 
-Designed while working at Studio 2108.
+<div class="small-text">Designed while working at Studio 2108.</div>

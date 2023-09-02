@@ -100,6 +100,14 @@ h1 {
     font-size: 24px;
     margin-bottom: .5em;
 }
+.button:hover, .button:active {
+    background-color: var(--main);
+    color: var(--white) !important;
+}
+.button a:active, .button a:hover, .button:hover a {
+    border-bottom: 0px solid #ffffff !important;
+    color: var(--white) !important;
+}
 
 
 /* Scroll Box Styles */

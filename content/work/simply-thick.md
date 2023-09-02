@@ -25,14 +25,12 @@ Simply Thick came to us for a website to advertise their new cookbook, *Modern D
 
 ## The Site
 
-![](/images/simply-thick/home.png)
+<div class="scroll-box"><img src="/images/simply-thick/home.png" alt="Modern Dysphagia Cooking Home"/></div>
 
-![](/images/simply-thick/about-the-authors.png)
+<div class="scroll-box"><img src="/images/simply-thick/about-the-authors.png" alt="Modern Dysphagia Cooking About the Authors"/></div>
 
-![](/images/simply-thick/about-the-book.png)
+<div class="scroll-box"><img src="/images/simply-thick/about-the-book.png" alt="Modern Dysphagia Cooking About the Book"/></div>
 
-Designed while working at Studio 2108.
+<div class="button"><a href="https://moderndysphagiacooking.com">View the site</a></div>
 
-[View the site](https://moderndysphagiacooking.com)
-
-(Note: the client of this site has full editing access, and the appearance and content of this site may have changed since launch.)
+<div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
