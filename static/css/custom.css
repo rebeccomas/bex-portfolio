@@ -117,3 +117,9 @@ h1 {
     overflow: scroll;
     margin-bottom: 3vh;
 }
+
+/* Header Styles */
+.logo {
+    width: 75px !important;
+    height: 44px !important;
+}
