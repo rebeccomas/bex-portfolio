@@ -1,8 +1,8 @@
-baseURL: https://bex-portfolio-site.onrender.com # todo: change site url.
+baseURL: https://bex-portfolio-site.onrender.com 
 title: Rebecca Comas
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: ''
 
 params:
   image: /images/banner.png
@@ -10,18 +10,15 @@ params:
   subtitle: I'm a web designer based in the St. Louis area.
   copyright: All rights reserved.
   author: Rebecca Comas
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: false
   portfolio:
     columns:
       desktop:
-        nature: 4
         archive: 6
-        people: 2
         default: 3
       mobile:
         default: 2
         archive: 3
-        people: 1
   socials:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:comas.rebecca@gmail.com'

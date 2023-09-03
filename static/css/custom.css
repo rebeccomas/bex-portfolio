@@ -123,3 +123,8 @@ h1 {
     width: 75px !important;
     height: 44px !important;
 }
+
+/* Footer Styles */
+.footer {
+    background-color: var(--white);
+}
