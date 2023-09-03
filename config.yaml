@@ -1,4 +1,4 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://bex-portfolio-site.onrender.com # todo: change site url.
 title: Rebecca Comas
 defaultContentLanguage: 'en'
 theme: eternity
@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: static/bex-logo.png # todo: add your custom logo to static/
+  logo: bex-logo.png # todo: add your custom logo to static/
   subtitle: I'm a web designer based in the St. Louis area.
   copyright: All rights reserved.
   author: Rebecca Comas
