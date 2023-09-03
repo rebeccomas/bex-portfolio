@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: bex-logo.png # todo: add your custom logo to static/
+  logo: bex-logo.png
   subtitle: I'm a web designer based in the St. Louis area.
   copyright: All rights reserved.
   author: Rebecca Comas
