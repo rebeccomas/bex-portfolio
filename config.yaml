@@ -1,14 +1,14 @@
 baseURL: https://eternity.bora.sh # todo: change site url.
-title: Bex Comas
+title: Rebecca Comas
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: bex-logo.png # todo: add your custom logo to static/
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
-  copyright: All rights reserved. # todo: set your copyright type.
+  logo: static/bex-logo.png # todo: add your custom logo to static/
+  subtitle: I'm a web designer based in the St. Louis area.
+  copyright: All rights reserved.
   author: Rebecca Comas
   dontShowSource: false # please, do not do this :)
   portfolio:
@@ -23,7 +23,6 @@ params:
         archive: 3
         people: 1
   socials:
-    # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:comas.rebecca@gmail.com'
       landing: true
