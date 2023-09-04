@@ -35,7 +35,7 @@ Once the designs were approved for development, I was also responsible for build
 #### Interior
 <div class="scroll-box"><img src="/images/wbe/SellMyFerrari-Interior.png" alt="Sell Your Ferrari Interior"/></div>
 
-<div class="button"><a href="https://sellmyferrari.com">View the site</a></div>
+<div class="button"><a href="https://sellmyferrari.com" target="_blank">View the site</a></div>
 
 <div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
 
@@ -56,6 +56,6 @@ Once the designs were approved for development, I was also responsible for build
 
 
 
-<div class="button"><a href="https://sellyourlamborghini.com">View the site</a></div>
+<div class="button"><a href="https://sellyourlamborghini.com" target="_blank">View the site</a></div>
 
 <div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>

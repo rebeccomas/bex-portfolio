@@ -35,7 +35,7 @@ I also designed print materials including an envelop and gift certificate.
 <div class="scroll-box"><img src="/images/thrive/Home-Mobile.png" alt="Thrive Mobile Home"/></div>
 <div class="scroll-box"><img src="/images/thrive/Interior-Mobile.png" alt="Thrive Mobile Interior"/></div>
 
-<div class="button"><a href="https://thrive4lifenow.com">View the site</a></div>
+<div class="button"><a href="https://thrive4lifenow.com" target="_blank">View the site</a></div>
 
 <div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
 
