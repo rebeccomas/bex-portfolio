@@ -26,7 +26,7 @@ River City Football Club decided to run a marketing campaign to get the word out
 ## The Site
 
 <div class="scroll-box"><img src="/images/river-city/Desktop-Abend.jpg" alt="River City Footbal Club - Desktop"/></div>
-<div class="scroll-box"><img src="/images/RiverCity-Mobile.jpg" alt="River City Footbal Club - Mobile"/></div>
+<div class="scroll-box"><img src="/images/river-city/RiverCity-Mobile.jpg" alt="River City Footbal Club - Mobile"/></div>
 
 ## Social Media Ads
 
