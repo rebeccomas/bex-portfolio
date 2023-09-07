@@ -113,9 +113,11 @@ h1 {
 /* Scroll Box Styles */
 
 .scroll-box {
-    max-height: 60vh;
+    max-height: 45vh;
     overflow: scroll;
     margin-bottom: 3vh;
+    margin-right: 5vw;
+    margin-left: 5vw;
 }
 
 /* Header Styles */
