@@ -122,9 +122,15 @@ h1 {
 .logo {
     width: 75px !important;
     height: 44px !important;
+    margin: auto;
+}
+.menu {
+    margin: auto;
+    text-align: center;
 }
 
 /* Footer Styles */
 .footer {
     background-color: var(--white);
 }
+
