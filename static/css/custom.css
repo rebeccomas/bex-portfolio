@@ -54,30 +54,30 @@ a:hover, a.active {
 
  /* Text Styles */
 h1 {
-    font-size: 100px !important;
+    font-size: 6.25rem !important;
     font-weight: 200 !important;
-    margin-block-end: 10px !important;
+    margin-block-end: .1em !important;
     line-height: 1 !important;
 }
  .subtitle {
     color: var(--main);
-    font-size: 24px !important;
+    font-size: 1.5rem !important;
     font-weight: 200 !important;
  }
  h2 {
-    font-size: 64px !important;
+    font-size: 4rem !important;
     font-weight: 600 !important;
     margin-block-end: .1em !important;
  }
  h3 {
-    font-size: 36px !important;
+    font-size: 2rem !important;
     font-weight: 200 !important;
     margin-block-start: .2em !important;
     margin-block-end: .2em !important;
  }
  h4 {
-    font-size: 16px !important;
-    font-weight: 800 !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
     margin-block-start: .2em !important;
     margin-block-end: .2em !important;
  }
@@ -137,3 +137,35 @@ h1 {
     background-color: var(--white);
 }
 
+
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 3.5rem !important;
+    }
+    h2 {
+        font-size: 2rem !important;
+        
+    }
+    .scroll-box {
+        margin-right: 10vw;
+        margin-left: 10vw;
+        max-height: 45vw;
+    }
+}
+
+
+/* Remove fullheight */
+.fullheight {
+    min-height: auto !important;
+    margin-top: 5vh;
+}
+.slide-meta-el {
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+}
+.slide-info {
+    margin-top: 0px;
+} 
