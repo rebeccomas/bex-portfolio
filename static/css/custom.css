@@ -113,7 +113,7 @@ h1 {
 /* Scroll Box Styles */
 
 .scroll-box {
-    max-height: 50vh;
+    max-height: 60vw;
     overflow: scroll;
     margin-bottom: 3vh;
     margin-right: 5vw;
@@ -151,7 +151,7 @@ h1 {
     .scroll-box {
         margin-right: 10vw;
         margin-left: 10vw;
-        max-height: 45vw;
+        max-height: 55vw;
     }
 }
 
@@ -168,4 +168,7 @@ h1 {
 }
 .slide-info {
     margin-top: 0px;
+    width: 1100px;
+    max-width: 80vw;
+    font-size: large;
 } 
