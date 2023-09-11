@@ -16,7 +16,7 @@ hideExif: true
 # Modern Dysphagia Cooking
 <div class="subtitle">Microsite</div>
 
-Simply Thick came to us for a website to advertise their new cookbook, *Modern Dysphagia Cooking*.  They wanted a website that was playful and highlighted the food photography from their recipes, communicating that cooking for Dysphagia can be tasty and fun. I used graphics and color treatments that are reminiscent of the cookbook's design itself to create a fun, image-prominant site that matches the book's branding.
+Simply Thick came to us for a website to advertise their new cookbook, *Modern Dysphagia Cooking*.  They wanted a website that was playful and highlighted the food photography from their recipes to communicate that cooking for Dysphagia can be tasty and fun. I used graphics and color treatments that are reminiscent of the cookbook's design to create a fun, image-prominant site that matches the book's branding.
 
 ## Styles
 
