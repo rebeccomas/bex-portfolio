@@ -41,7 +41,7 @@ a:hover, a.active {
 
  /* Slider styles */
  .slider {
-    background-color: rgba(247, 247, 247, .98);
+    background-color: rgba(247, 247, 247, .95);
  }
 
  /* Landing page styles */
@@ -153,6 +153,9 @@ h1 {
         margin-left: 10vw;
         max-height: 55vw;
     }
+    .button {
+        font-size: 18px;
+    }
 }
 
 
@@ -171,4 +174,8 @@ h1 {
     width: 1100px;
     max-width: 80vw;
     font-size: large;
+    background-color: #F7F7F7 !important;
+    padding: 40px;
+    border-radius: 10px;
+    /*box-shadow: 2px 5px 8px #86a4b42d !important;*/
 } 
