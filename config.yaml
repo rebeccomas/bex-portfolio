@@ -31,7 +31,7 @@ params:
     - work
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: true # disables the background image on the homepage
+  disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
