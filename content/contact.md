@@ -1,4 +1,6 @@
 ---
+images:
+- /images/about.png
 title: contact
 url: contact
 hideTitle: true
