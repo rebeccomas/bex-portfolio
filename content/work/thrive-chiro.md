@@ -16,9 +16,15 @@ hideExif: true
 # Thrive for Live Chiropractic
 <div class="subtitle">Website Redesign, Stationery</div>
 
-Thrive for Life Chiropractic came to us wanting a redesign of their website and a refresh to their branding in general. They wanted a look that felt life-giving, organic, and fun. I designed a site with colorful graphics that guide the user's eye in organic curves down the page, interspersed with playful scatterings of leaves to echo the tree in Thrive's logo.
+Thrive for Life Chiropractic is a holistic wellness center that provides chiropractic, massage therapy, and acupuncture services to the St. Louis region. To reflect Thrive's mission to cultivate naturalistic health, I gave their site a redesign that features organic shapes and illustrations, playful colors, and curving structure to naturally guide the eye down the page. I used the same visual language on Thrive's new print materials.
 
-I also designed print materials including an envelop and gift certificate.
+## Project Goals
+When Thrive for Life came to us, their site was long overdue for a design refresh, and the visuals throughout the site were outdated and no longer represented Thrive's identity. The purpose of this website redesign was to update the look, make the site easier and more enjoyable to use, and enhance the user's experience. 
+
+Since Thrive is seeking to bring a peaceful and life-enriching experience in their chiropractic practice, my goal for this redesign was to make the website contribute to those goals as well. I designed this site with the goal that it would be fun and organic to use, appeal to the target audience of chiropractic patients, and bring to mind concepts of growth, life, and wellness. 
+
+## Graphics
+The graphics for the site include bunches of leaves, fun colors, and lots of curves. Thrive was looking for bright, playful visuals to allude to the happiness they hope to bring with their services. The leaves hint at the natural aspect of their practice and call back to their logo. The curvy background graphics, circles, and rounded corners everywhere, are meant to give the impression of safety, peace, and relaxation.
 
 ## Styles
 

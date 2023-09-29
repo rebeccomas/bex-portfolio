@@ -65,7 +65,7 @@ h1 {
     font-weight: 200 !important;
  }
  h2 {
-    font-size: 4rem !important;
+    font-size: 3rem !important;
     font-weight: 600 !important;
     margin-block-end: .1em !important;
  }
@@ -113,7 +113,7 @@ h1 {
 /* Scroll Box Styles */
 
 .scroll-box {
-    max-height: 60vw;
+    max-height: 60vh;
     overflow: scroll;
     margin-bottom: 3vh;
     margin-right: 5vw;
