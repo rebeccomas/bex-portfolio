@@ -53,11 +53,16 @@ a:hover, a.active {
  
 
  /* Text Styles */
+.welcome-title {
+    font-size: 48px;
+    margin-top: 30px;
+ }
 h1 {
     font-size: 6.25rem !important;
     font-weight: 200 !important;
     margin-block-end: .1em !important;
     line-height: 1 !important;
+    text-transform: uppercase;
 }
  .subtitle {
     color: var(--main);
