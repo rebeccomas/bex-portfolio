@@ -17,6 +17,11 @@ Web/Graphic Designer
 
 2021 - Now
 
+### Freelance Designer
+Graphic Designer & 3D Artist
+
+2020-2021
+
 ### Publications, Truman State University
 Graphic Designer
 
@@ -26,6 +31,11 @@ Graphic Designer
 Design Intern
 
 2018
+
+### Truman State University
+Layout Designer
+
+2017-2018
 
 
 ## Education
