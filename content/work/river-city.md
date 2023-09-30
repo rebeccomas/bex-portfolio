@@ -16,13 +16,15 @@ hideExif: true
 # River City Football Club
 <div class="subtitle">Landing Page</div>
 
-River City Football Club decided to run a marketing campaign to get the word out about their 2022 season tryouts. My responsibility was to design a landing page and social media ads that matched their existing branding and conveyed the exciting, high caliber persona they wanted to present. I went with a duotone color treatment using their light and dark blue brand colors, which I applied to the photography (which was provided by the client) as well as the landing page's colors. The call to action buttons are always visible in a sticky footer that invites the user to register for tryouts at any point as they scroll through the landing page.
+River City Football Club is a premier youth soccer club based in St. Louis, Missouri, a city that is known for being the hometown of many professional soccer players. River FC helps players reach their full potential and excel as soccer players by offering a supportive, positive environment for young players to learn and grow.
 
 ## Project Goals
-The purpose of this project was to create a landing page as a destination for a marketing campaign for River City FC’s soccer tryouts. The landing page needed to provide information about River City FC, their teams, and make it easy for parents of players to sign their children up for tryouts.  
+The purpose of this project was to create a landing page as a destination for a marketing campaign for River City FC’s soccer tryouts. The landing page needed to provide information about River City FC, their teams, and make it easy for parents of players to sign their children up for tryouts. 
+
+As part of this project, I also design social media posts for the marketing campaign that would point to the landing page. The posts needed to be engaging, and match the landing page in look and feel for continuity between the two experiences.
 
 ## Design
-The CTA button is sticky to the bottom of the browser, so users can easily access it whenever they are ready. For an impressive hero photo, I recolored an image from a River City FC soccer game with a duotone treatment of River City FC's light blue and dark blue brand colors. I used those same brand colors throughout the page for typography and other design elements.
+I designed the landing page to have the impressive look and feel that a premier soccer league deserves, and to be easily navigable for a high conversion rate. The CTA buttons are sticky to the bottom of the browser, so users can easily access it whenever they are ready. For an impressive hero photo, I recolored an image from a River City FC soccer game with a duotone treatment of River City FC's light blue and dark blue brand colors. I used those same brand colors throughout the page for typography and other design elements. I created the social media ads to have a very similar look and feel, so that user's would know they were in the right place when they clicked the link to the landing page.
 
 ## Styles
 

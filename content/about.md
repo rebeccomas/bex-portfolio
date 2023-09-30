@@ -13,7 +13,7 @@ hideDate: true
 	</p>
 </div>
 
-### About Me
+# About Me
 
 I'm a designer based  in St. Louis, Missouri. 
 

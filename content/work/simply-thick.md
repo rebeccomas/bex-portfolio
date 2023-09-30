@@ -16,10 +16,10 @@ hideExif: true
 # Modern Dysphagia Cooking
 <div class="subtitle">Microsite</div>
 
-Simply Thick came to us for a website to advertise their new cookbook, *Modern Dysphagia Cooking*.  They wanted a website that was playful and highlighted the food photography from their recipes to communicate that cooking for Dysphagia can be tasty and fun. I used graphics and color treatments that are reminiscent of the cookbook's design to create a fun, image-prominant site that matches the book's branding.
+SimplyThick produces a food and beverage thickener for people living with swallowing disorders, also know as dysphagia. Their cookbook, *Modern Dysphagia Cooking*, includes recipes for use with their thickening products.
 
 ## Project Goals
-The purpose of this project was to create a website for SimplyThick to advertise their new book, *Modern Dysphagia Cooking.* The site needed to be engaging, give a preview of food from the book’s recipes, and ultimately point users to the link to purchase the book. I designed a site that accomplished all these goals, while staying consistent with the existing branding for the book. 
+The purpose of this project was to create a website for SimplyThick to advertise their new book, *Modern Dysphagia Cooking.* The site needed to be engaging, give a preview of food from the book’s recipes, show that cooking for dysphagia can be delicious and fun, and ultimately point users to the link to purchase the book. I designed a site that accomplished all these goals while staying consistent with the existing branding for the book. 
 
 ## Design
 The graphics on the site reference the graphics in the book itself and other branding surrounding the book.  I created header, hero, and footer graphics that use a playful triangular design that is similar to Simply Thick’s advertisements for the book, and the background patterns and playful graphics that decorate the page’s layout also hint back to the book's design. This, plus SimplyThick's food photography, employed over a creative angular layout, satisfied SimplyThick's goals of using the site to convey the message that cooking for dysphagia can be fun and delicious.
