@@ -49,3 +49,15 @@ Cum Laude
 
 Departmental Honors
 
+## Awards
+
+### Outstanding Student in Visual Communications
+Truman State University, 2020
+
+### Departmental Honors in Art: Design
+Truman State University, 2020
+
+### William Unger Memorial Scholarship recipient
+(for artistic and academic excellence)
+Truman State University, 2019
+
