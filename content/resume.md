@@ -10,6 +10,9 @@ hideDate: true
 
 # Resume 
 
+
+<div class="button" style="margin-top: 10px;"><a href="/files/Rebecca-Comas-Resume-2023.pdf" target="_blank">Download Full Resume</a></div>
+
 ## Experience
 
 ### Studio 2108
