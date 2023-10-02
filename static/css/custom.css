@@ -15,6 +15,10 @@ nav.navbar {
     background-color: #F7F7F7;
 }
 
+body, button, input, optgroup, select, textarea {
+    font-family: 'Manrope', sans-serif;
+}
+
 
  .footer {
     color: var(--main);
@@ -105,13 +109,21 @@ h1 {
     font-size: 24px;
     margin-bottom: .5em;
 }
-.button:hover, .button:active {
-    background-color: var(--main);
+.button:hover, .button:active, .button.is-white.is-outlined.is-focused, .button.is-white.is-outlined.is-hovered, .button.is-white.is-outlined:focus, .button.is-white.is-outlined:hover {
+    background-color: var(--main) !important;
     color: var(--white) !important;
 }
 .button a:active, .button a:hover, .button:hover a {
     border-bottom: 0px solid #ffffff !important;
     color: var(--white) !important;
+}
+
+/* Navigation Button Styles */
+.navigate {
+    background-color: var(--main) !important;
+}
+.prev, .next {
+    color: var(--dark) !important;
 }
 
 
