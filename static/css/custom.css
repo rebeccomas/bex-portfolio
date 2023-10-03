@@ -108,6 +108,7 @@ h1 {
     box-shadow: 0px 2px 10px rgba(0, 0, 0, .08) !important;
     font-size: 24px;
     margin-bottom: .5em;
+    background-color: #ffffff !important;
 }
 .button:hover, .button:active, .button.is-white.is-outlined.is-focused, .button.is-white.is-outlined.is-hovered, .button.is-white.is-outlined:focus, .button.is-white.is-outlined:hover {
     background-color: var(--main) !important;
