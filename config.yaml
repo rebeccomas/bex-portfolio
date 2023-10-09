@@ -10,7 +10,7 @@ params:
   subtitle: I'm a web designer based in the St. Louis area.
   copyright: All rights reserved.
   author: Rebecca Comas
-  dontShowSource: false
+  dontShowSource: true
   portfolio:
     columns:
       desktop:

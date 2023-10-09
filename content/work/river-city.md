@@ -33,7 +33,10 @@ I designed the landing page to have the impressive look and feel that a premier 
 
 ## The Site
 
+### Desktop
 <div class="scroll-box"><img src="/images/river-city/Desktop-Abend.jpg" alt="River City Footbal Club - Desktop"/></div>
+
+### Mobile
 <div class="scroll-box"><img src="/images/river-city/RiverCity-Mobile.jpg" alt="River City Footbal Club - Mobile"/></div>
 
 ## Social Media Ads
