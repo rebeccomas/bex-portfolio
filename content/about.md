@@ -1,17 +1,10 @@
 ---
-images:
 title: about
 url: about
 hideTitle: true
 hideExif: true
 hideDate: true
 ---
-
-<div align="center">
-	<p>
-	</p>
-</div>
-
 # About Me
 
 I'm a designer based  in St. Louis, Missouri. 
