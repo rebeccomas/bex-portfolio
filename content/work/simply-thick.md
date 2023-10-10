@@ -22,7 +22,7 @@ SimplyThick produces a food and beverage thickener for people living with swallo
 The purpose of this project was to create a website for SimplyThick to advertise their new book, *Modern Dysphagia Cooking.* The site needed to be engaging, give a preview of food from the book’s recipes, show that cooking for dysphagia can be delicious and fun, and ultimately point users to the link to purchase the book. I designed a site that accomplished all these goals while staying consistent with the existing branding for the book. 
 
 ## Design
-The graphics on the site reference the graphics in the book itself and other branding surrounding the book.  I created header, hero, and footer graphics that use a playful triangular design that is similar to Simply Thick’s advertisements for the book, and the background patterns and playful graphics that decorate the page’s layout also hint back to the book's design. This, plus SimplyThick's food photography, employed over a creative angular layout, satisfied SimplyThick's goals of using the site to convey the message that cooking for dysphagia can be fun and delicious.
+The graphics on the site reference the graphics in the book itself and other branding surrounding the book.  I created header, hero, and footer graphics that use a playful triangular design similar to Simply Thick’s advertisements for the book. The background patterns and playful graphics that decorate the page’s layout also hint back to the book's design. This, plus SimplyThick's food photography, employed over a creative angular layout, accomplished SimplyThick's goals of using the site to convey the message that cooking for dysphagia can be fun and delicious.
 
 ## Styles
 
