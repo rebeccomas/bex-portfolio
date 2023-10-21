@@ -10,10 +10,10 @@
                 <img class="logo" src={{ .Site.Params.logo | absURL }}>
             </a>
         </div>
+        <a class="a-clean" href={{ relref . $homeLink }}><p class="welcome-title">{{ .Site.Title }}</p></a>
     </div>
     {{ end }}
     <div class="navbar-middle">
-        <a class="a-clean" href={{ relref . $homeLink }}><p class="welcome-title">{{ .Site.Title }}</p></a>
         {{ if not .IsHome }}
             {{ if and .Site.Menus .Site.Menus.main }}
                 <div class="menu">
@@ -25,7 +25,7 @@
                             {{ $active = "active" }}
                         {{ end }}
                         <a class="{{ $active }}" href="{{ $el.URL }}">{{ $el.Name }}</a>
-                        {{ if ne $i $lastIndex }} / {{ end }}
+                        {{ if ne $i $lastIndex }}  {{ end }}
                     {{ end }}
                 </div>
             {{ end }}
