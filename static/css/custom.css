@@ -54,15 +54,30 @@ a:hover, a.active {
     color: var(--main);
  }
 
+ .lp-title {
+    text-align: left;
+    font-size: 48px;
+    color: var(--main);
+    margin-bottom: 10px !important;
+}
+    
+.lp-text {
+    text-align: left;
+    font-size: 1.4rem;
+ }
+ .welcome-text {
+    width: 50%;
+ }
+
  
 
  /* Text Styles */
 .welcome-title {
-    font-size: 48px;
-    margin-top: 30px;
+    font-size: 24px;
+    margin-top: 0px;
  }
 h1 {
-    font-size: 6.25rem !important;
+    font-size: 4rem !important;
     font-weight: 200 !important;
     margin-block-end: .1em !important;
     line-height: 1 !important;
@@ -74,12 +89,12 @@ h1 {
     font-weight: 200 !important;
  }
  h2 {
-    font-size: 3rem !important;
+    font-size: 2.5rem !important;
     font-weight: 600 !important;
     margin-block-end: .1em !important;
  }
  h3 {
-    font-size: 2rem !important;
+    font-size: 1.4rem !important;
     font-weight: 200 !important;
     margin-block-start: .2em !important;
     margin-block-end: .2em !important;
@@ -106,7 +121,7 @@ h1 {
     border-radius: 46px;
     border: 0px solid #ffffff !important;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, .08) !important;
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: .5em;
     background-color: #ffffff !important;
 }
@@ -189,11 +204,14 @@ h1 {
 }
 .slide-info {
     margin-top: 0px;
-    width: 1100px;
-    max-width: 80vw;
+    width: 1400px;
     font-size: large;
     background-color: #F7F7F7 !important;
     padding: 40px;
     border-radius: 10px;
     /*box-shadow: 2px 5px 8px #86a4b42d !important;*/
 } 
+/*.slide .slide-info {
+    width: 1100px;
+    max-width: 80vw;
+}*/
