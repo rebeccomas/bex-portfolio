@@ -1,6 +1,11 @@
 html{
     background-color: var(--white);
     background-color: #F7F7F7;
+    background-image: url("../background-corner.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
 }
 
 :root {
@@ -11,8 +16,7 @@ html{
 }
 
 nav.navbar {
-    background-color: var(--white);
-    background-color: #F7F7F7;
+    background-color: #F7F7F700;
 }
 
 body, button, input, optgroup, select, textarea {
@@ -169,7 +173,7 @@ h1 {
 
 /* Footer Styles */
 .footer {
-    background-color: var(--white);
+    background-color: #ffffff00;
 }
 
 
