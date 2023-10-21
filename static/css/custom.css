@@ -224,18 +224,46 @@ h1 {
     display: flex;
     flex-direction: row;
 }
-.flexy div {
-    display: inline-block !important;
+.flexy-item {
+    padding-right: 40px;
+    margin-bottom: 20px;
 }
-.two-column-flex div {
+.flexy .flexy-item ul {
+    margin-top: 0px;
+}
+.two-column-flex .flexy-item {
     flex-basis: 50%;
 }
-@media (max-width: 768px) {
-    .two-column-flex div {
-        flex-basis: 100%;
+.five-column-flex > *{
+    flex-basis: 20%
+}
+@media (max-width: 1366px) {
+    .five-column-flex > * {
+        flex-basis: 33%;
+        width: 33%;
+        padding-right: 20px;
     }
     .flexy {
         flex-wrap: wrap;
+    }
+}
+@media (max-width: 850px) {
+    .five-column-flex > * {
+        flex-basis: 50%;
+        width: 50%;
+        padding-right: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .two-column-flex > *, .five-column-flex > * {
+        flex-basis: 100%;
+        width: 100%;
+    }
+    .flexy {
+        flex-wrap: wrap;
+    }
+    .flexy .flexy-item {
+        margin-right: 0px;
     }
 }
 
