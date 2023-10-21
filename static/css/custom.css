@@ -1,7 +1,7 @@
 html{
     background-color: var(--white);
     background-color: #F7F7F7;
-    background-image: url("../background-corner.png");
+    background-image: url("../background-corner.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
