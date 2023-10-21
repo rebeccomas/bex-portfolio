@@ -204,7 +204,7 @@ h1 {
 }
 .slide-info {
     margin-top: 0px;
-    width: 1400px;
+    width: 100%;
     font-size: large;
     background-color: #F7F7F7 !important;
     padding: 40px;
