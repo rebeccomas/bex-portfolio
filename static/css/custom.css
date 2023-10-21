@@ -87,6 +87,12 @@ h1 {
  .slide img {
     max-height: none;
  }
+ .slide-imgs img{
+    max-height: 100vh;
+ }
+ .slide {
+   /* min-height: 70vh;*/
+ }
 
  /* Button Styles */
 .button {
