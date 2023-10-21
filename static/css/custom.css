@@ -148,6 +148,7 @@ h1 {
 .menu a {
     margin: 0px 3px;
     border-width: 2px;
+    border-color: var(--main-light) !important;
 }
 @media (max-width: 1024px)  {
     .navbar-end {
