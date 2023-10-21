@@ -5,7 +5,7 @@ hideTitle: true
 hideExif: true
 hideDate: true
 ---
-<div class="button" style="margin-top: 10px; float:right;"><a href="/files/Rebecca-Comas-Resume-2023.pdf" target="_blank">Download Resume</a></div>
+<div class="button floating-button" style="margin-top: 10px;"><a href="/files/Rebecca-Comas-Resume-2023.pdf" target="_blank">Download Resume</a></div>
 
 # Resume 
 

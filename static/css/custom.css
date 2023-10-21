@@ -90,8 +90,14 @@ h1 {
  .slide-imgs img{
     max-height: 100vh;
  }
- .slide {
-   /* min-height: 70vh;*/
+
+ .section {
+    min-height: 75vh;
+ }
+ @media (max-width: 1024px) {
+    .section {
+        min-height: 60vh;
+     }
  }
 
  /* Button Styles */
@@ -321,5 +327,15 @@ h1 {
     .project-text {
         box-shadow: 2px 5px 8px #00000000 !important;
         padding: 20px;
+    }
+}
+
+
+.floating-button {
+    float:right;
+}
+@media (max-width: 768px) {
+    .floating-button {
+        float:left;
     }
 }
