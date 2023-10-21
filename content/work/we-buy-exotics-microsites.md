@@ -13,6 +13,9 @@ hideTitle: true
 hideDate: true
 hideExif: true
 ---
+
+<div class="project-text">
+
 # We Buy Exotics Microsites
 <div class="subtitle">Design and Frontend Wordpress Development</div>
 
@@ -66,3 +69,5 @@ Once the designs were approved for development, I was also responsible for build
 <div class="button"><a href="https://sellyourlamborghini.com" target="_blank">View the site</a></div>
 
 <div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
+
+</div>

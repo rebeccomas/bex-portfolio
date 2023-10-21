@@ -13,6 +13,9 @@ hideTitle: true
 hideDate: true
 hideExif: true
 ---
+
+<div class="project-text">
+
 # Modern Dysphagia Cooking
 <div class="subtitle">Microsite</div>
 
@@ -40,3 +43,5 @@ The graphics on the site reference the graphics in the book itself and other bra
 <div class="button"><a href="https://moderndysphagiacooking.com" target="_blank">View the site</a></div>
 
 <div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
+
+</div>

@@ -43,11 +43,6 @@ a:hover, a.active {
     color: var(--main);
  }
 
- /* Slider styles */
- .slider {
-    background-color: rgba(247, 247, 247, .95);
- }
-
  /* Text Styles */
 .welcome-title {
     font-size: 24px;
@@ -183,10 +178,7 @@ h1 {
     margin-top: 0px;
     width: 85%;
     font-size: large;
-    background-color: #F7F7F7 !important;
     padding: 15px;
-    border-radius: 10px;
-    /*box-shadow: 2px 5px 8px #86a4b42d !important;*/
 } 
 @media (max-width: 768px) {
     .slide-info {
@@ -242,3 +234,24 @@ h1 {
         padding-right: 0px;
     }
  }
+
+
+/* Slider styles */
+.slider {
+    background-color: rgba(247, 247, 247, .92);
+}
+/* Project Page Styles */
+.project-text {
+    max-width: 1100px;
+    margin: auto;
+    background-color: #F7F7F7 !important;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 2px 5px 8px #86a4b42d !important;
+}
+@media (max-width: 768px) {
+    .project-text {
+        box-shadow: 2px 5px 8px #00000000 !important;
+        padding: 20px;
+    }
+}

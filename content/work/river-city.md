@@ -13,6 +13,9 @@ hideTitle: true
 hideDate: true
 hideExif: true
 ---
+
+<div class="project-text">
+
 # River City Football Club
 <div class="subtitle">Landing Page</div>
 
@@ -46,3 +49,5 @@ I designed the landing page to have the impressive look and feel that a premier 
 ![](/images/river-city/Facebook_Abend.jpg)
 
 <div class="small-text">Designed while working at Studio 2108.</div>
+
+</div>

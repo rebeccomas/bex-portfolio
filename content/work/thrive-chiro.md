@@ -13,6 +13,8 @@ hideTitle: true
 hideDate: true
 hideExif: true
 ---
+<div class="project-text">
+
 # Thrive for Live Chiropractic
 <div class="subtitle">Website Redesign, Stationery</div>
 
@@ -51,3 +53,5 @@ The graphics for the site include bunches of leaves, fun colors, and lots of cur
 ![](/images/thrive/print/card-and-envelope.jpg)
 
 <div class="small-text">Designed while working at Studio 2108.</div>
+
+</div>
