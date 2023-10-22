@@ -254,7 +254,7 @@ h1 {
     flex-basis: 20%
 }
 @media (max-width: 1366px) {
-    .five-column-flex > * {
+    .five-column-flex .flexy-item {
         flex-basis: 33%;
         width: 33%;
         padding-right: 20px;
@@ -264,14 +264,14 @@ h1 {
     }
 }
 @media (max-width: 850px) {
-    .five-column-flex > * {
+    .five-column-flex .flexy-item {
         flex-basis: 50%;
         width: 50%;
         padding-right: 20px;
     }
 }
 @media (max-width: 768px) {
-    .two-column-flex > *, .five-column-flex > * {
+    .two-column-flex .flexy-item, .five-column-flex .flexy-item {
         flex-basis: 100%;
         width: 100%;
     }

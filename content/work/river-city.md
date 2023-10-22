@@ -44,9 +44,14 @@ I designed the landing page to have the impressive look and feel that a premier 
 
 ## Social Media Ads
 
-![](/images/river-city/RiverCity_FacebookAd.png)
-
-![](/images/river-city/Facebook_Abend.jpg)
+<div class="flexy two-column-flex">
+    <div class="flexy-item">
+        <img src="/images/river-city/RiverCity_FacebookAd.png">
+    </div>
+    <div class="flexy-item">
+        <img src="/images/river-city/Facebook_Abend.jpg">
+    </div>
+</div>
 
 <div class="small-text">Designed while working at Studio 2108.</div>
 

@@ -40,8 +40,15 @@ The graphics for the site include bunches of leaves, fun colors, and lots of cur
 <div class="scroll-box"><img src="/images/thrive/Interior-Desktop.png" alt="Thrive Desktop Interior"/></div>
 
 ### Mobile
+
+<div class="flexy two-column-flex">
+ <div class="flexy-item">
 <div class="scroll-box"><img src="/images/thrive/Home-Mobile.png" alt="Thrive Mobile Home"/></div>
+</div>
+ <div class="flexy-item">
 <div class="scroll-box"><img src="/images/thrive/Interior-Mobile.png" alt="Thrive Mobile Interior"/></div>
+</div>
+</div>
 
 <div class="button"><a href="https://thrive4lifenow.com" target="_blank">View the site</a></div>
 
