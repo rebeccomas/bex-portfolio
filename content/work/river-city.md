@@ -17,7 +17,7 @@ hideExif: true
 <div class="project-text">
 
 # River City Football Club
-<div class="subtitle">Landing Page</div>
+<div class="subtitle">Landing Page Design</div>
 
 River City Football Club is a premier youth soccer club based in St. Louis, Missouri, a city known for being the hometown of many professional soccer players. River FC helps players reach their full potential by offering a supportive, positive environment for young players to learn and grow.
 

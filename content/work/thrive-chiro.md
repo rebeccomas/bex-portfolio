@@ -16,7 +16,7 @@ hideExif: true
 <div class="project-text">
 
 # Thrive for Live Chiropractic
-<div class="subtitle">Website Redesign, Stationery</div>
+<div class="subtitle">Website Redesign, Stationery Design</div>
 
 Thrive for Life Chiropractic is a holistic wellness center that provides chiropractic, massage therapy, and acupuncture services to the St. Louis region. To reflect Thrive's mission to cultivate naturalistic health, I gave their site a redesign that features organic shapes and illustrations, playful colors, and curving structure to naturally guide the eye down the page. I used the same visual language on Thrive's new print materials.
 

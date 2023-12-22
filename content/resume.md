@@ -20,12 +20,20 @@ Web/Graphic Designer </br>
 
 <div class="small-text">
 
-- Designed 50+ websites
-- Designed brand assets and print materials
-- Assisted in website development and production
-- Created assets
-- Presented designs to clients and responded to feedback
-- Handled client requests and solved issues with client sites quickly
+I functioned as Web, UI, UX, and graphic designer
+all in one. I used Adobe XD to create high-fidelity
+mockups, designed assets, and worked within
+each client’s brand guidelines. I communicated
+with clients to create mutual clarity about their
+goals and my creative solutions. I worked with
+my teammates, utilizing each other’s strengths.
+I managed my time effectively, and successfully
+handled urgent requests while staying on track
+with long-term project deadlines. I designed for
+usability and accessibility, using W3C guidelines.
+I honed development skills in Wordpress, HTML
+and CSS and learned to take a website from
+ideation to launch.
 
 </div>
 
@@ -39,9 +47,19 @@ Graphic Designer & 3D Artist </br>
 
 <div class="small-text">
 
-- Developed 3D assets for marketing use for well-known brands like AAA
-- Designed print materials such as posters, t-shirts, and stationery
-- Designed branding and brand assets such as logos, style guides, and other brand materials- 
+I used versatile design skillset to work on a wide
+variety of projects. I used my 3D modeling and
+animation skills in Blender to create graphics
+for AAA ads. I designed table tents, posters,
+and a catering menu for Farotto’s, a local St.
+Louis restaurant, adhering to their brand
+guidelines and aesthetics. I designed theater
+posters and programs for Providence school’s
+annual Shakespeare production, a project
+which allowed me a lot of creative freedom.
+The software I used included Adobe Illustrator,
+InDesign, and Photoshop, Blender and Adobe
+After Effects.
 
 </div>
 </div>
@@ -68,10 +86,19 @@ Design Intern </br>
 
 <div class="small-text">
 
-- Designed informational materials, event invitations, branded promotional products, and signage
-- Used Thrive’s brand standards for consistency with existing content
-- Assisted with in-house production 
-- Prepared files for external print production
+I worked on many projects that required me to
+design within Thrive’s brand guidelines, including
+a mailer for their annual fundraising dinner. For this
+project, I designed every part of the mailer, including
+the envelope, seal, card and a RSVP insert, chose
+paper for each, and designed the graphics and
+typography to correspond to the event’s theme.
+I used Adobe InDesign’s automation tools to add
+hundreds of unique recipient names and addresses
+to the envelopes quickly. During the print production
+process, I did jobs including trimming, scoring,
+folding, and assembling. During this position I
+used Adobe Photoshop, Illustrator, and InDesign.
 
 </div>
 </div>

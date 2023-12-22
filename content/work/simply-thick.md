@@ -17,7 +17,7 @@ hideExif: true
 <div class="project-text">
 
 # Modern Dysphagia Cooking
-<div class="subtitle">Microsite</div>
+<div class="subtitle">Microsite Design</div>
 
 SimplyThick produces a food and beverage thickener for people living with swallowing disorders, also know as dysphagia. Their cookbook, *Modern Dysphagia Cooking*, includes recipes for use with their thickening products.
 
