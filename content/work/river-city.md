@@ -53,6 +53,8 @@ I designed the landing page to have the impressive look and feel that a premier 
     </div>
 </div>
 
-<div class="small-text">Designed while working at Studio 2108.</div>
+<div class="button"><a href="https://rivercityfc-signup.com" target="_blank">View the site</a></div>
+
+<div class="small-text">The client of this site has full editing access, and the appearance or content of this site may have changed since launch. Designed while working at Studio 2108.</div>
 
 </div>
