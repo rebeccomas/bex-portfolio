@@ -250,6 +250,9 @@ h1 {
 .two-column-flex .flexy-item {
     flex-basis: 50%;
 }
+.three-column-flex .flexy-item {
+    flex-basis: 33%;
+}
 .five-column-flex > *{
     flex-basis: 20%
 }
@@ -263,7 +266,11 @@ h1 {
         flex-wrap: wrap;
     }
 }
-@media (max-width: 850px) {
+@media (max-width: 950px) {
+    .three-column-flex .flexy-item {
+        flex-basis: 100%;
+        width: 100%;
+    }
     .five-column-flex .flexy-item {
         flex-basis: 50%;
         width: 50%;
@@ -271,7 +278,7 @@ h1 {
     }
 }
 @media (max-width: 768px) {
-    .two-column-flex .flexy-item, .five-column-flex .flexy-item {
+    .two-column-flex .flexy-item, .three-column-flex .flexy-item, .five-column-flex .flexy-item {
         flex-basis: 100%;
         width: 100%;
     }

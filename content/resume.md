@@ -5,13 +5,13 @@ hideTitle: true
 hideExif: true
 hideDate: true
 ---
-<div class="button floating-button" style="margin-top: 10px;"><a href="/files/Rebecca-Comas-Resume-2023.pdf" target="_blank">Download Resume</a></div>
+<div class="button floating-button" style="margin-top: 10px;"><a href="/files/Rebecca-Comas-Resume-2024.pdf" target="_blank">Download Resume</a></div>
 
 # Resume 
 
 ## Experience
 
-<div class="flexy five-column-flex">
+<div class="flexy three-column-flex">
 <div class="flexy-item">
 
 ### Studio 2108
@@ -20,20 +20,7 @@ Web/Graphic Designer </br>
 
 <div class="small-text">
 
-I functioned as Web, UI, UX, and graphic designer
-all in one. I used Adobe XD to create high-fidelity
-mockups, designed assets, and worked within
-each client’s brand guidelines. I communicated
-with clients to create mutual clarity about their
-goals and my creative solutions. I worked with
-my teammates, utilizing each other’s strengths.
-I managed my time effectively, and successfully
-handled urgent requests while staying on track
-with long-term project deadlines. I designed for
-usability and accessibility, using W3C guidelines.
-I honed development skills in Wordpress, HTML
-and CSS and learned to take a website from
-ideation to launch.
+I function as Web designer, UI/UX designer and frontend developer all in one. I have honed development skills in Wordpress, HTML and CSS and am able to take a website from ideation to launch and assist with the frontend development workload on most projects. I work in Adobe XD to create high-fidelity mockups, design  assets with Illustrator and Photoshop, and work within each client’s brand guidelines. I communicate with our clients directly to establish mutual clarity about their goals and my creative solutions. I work with my teammates, utilizing each other’s strengths. I manage my time effectively, and successfully handle urgent requests while staying on track with long-term project deadlines. I design for usability and accessibility, using W3C guidelines.
 
 </div>
 
@@ -47,37 +34,11 @@ Graphic Designer & 3D Artist </br>
 
 <div class="small-text">
 
-I used versatile design skillset to work on a wide
-variety of projects. I used my 3D modeling and
-animation skills in Blender to create graphics
-for AAA ads. I designed table tents, posters,
-and a catering menu for Farotto’s, a local St.
-Louis restaurant, adhering to their brand
-guidelines and aesthetics. I designed theater
-posters and programs for Providence school’s
-annual Shakespeare production, a project
-which allowed me a lot of creative freedom.
-The software I used included Adobe Illustrator,
-InDesign, and Photoshop, Blender and Adobe
-After Effects.
+I utilized my versatile design skillset to work on a wide variety of projects. I used my 3D modeling and animation skills in Blender to create graphics for AAA ads. I designed table tents, posters, and a catering menu for Farotto’s, a local St. Louis restaurant, adhering to their brand guidelines and aesthetics. I designed theater posters and programs for Providence school’s annual Shakespeare production. The software I used included Adobe Illustrator, InDesign, Photoshop, Blender and Adobe After Effects.
 
 </div>
 </div>
-<div class="flexy-item">
 
-### Publications, Truman State University
-Graphic Designer </br>
-2018-2020
-
-<div class="small-text">
-
-- Designed graphic material for print, web and social media to promote on-campus events and organizations
-- Worked on multiple projects simultaneously and met deadlines
-- Communicated with clients and print vendor
-- Formatted finalized artwork for production
-
-</div>
-</div>
 <div class="flexy-item">
 
 ### Thrive St. Louis
@@ -86,37 +47,11 @@ Design Intern </br>
 
 <div class="small-text">
 
-I worked on many projects that required me to
-design within Thrive’s brand guidelines, including
-a mailer for their annual fundraising dinner. For this
-project, I designed every part of the mailer, including
-the envelope, seal, card and a RSVP insert, chose
-paper for each, and designed the graphics and
-typography to correspond to the event’s theme.
-I used Adobe InDesign’s automation tools to add
-hundreds of unique recipient names and addresses
-to the envelopes quickly. During the print production
-process, I did jobs including trimming, scoring,
-folding, and assembling. During this position I
-used Adobe Photoshop, Illustrator, and InDesign.
+I worked on many projects that required me to design within Thrive’s brand guidelines, including a mailer for their annual fundraising dinner. For this project, I designed every part of the mailer, including the envelope, seal, card and a RSVP insert, chose paper for each, and designed the graphics and typography to correspond to the event’s theme. I used Adobe InDesign’s automation tools to add hundreds of unique recipient names and addresses to the envelopes quickly. During the print production process, I did jobs including trimming, scoring, folding, and assembling. During this position I used Adobe Photoshop, Illustrator, and InDesign.
 
 </div>
 </div>
-<div class="flexy-item">
 
-### Truman State University
-Layout Designer </br>
-2017-2018
-
-<div class="small-text">
-
-- Worked in a 3-person team
-- Contributed design, formatting, and photo editing to a 200+ page book presenting faculty research
-- Designed page layouts to be accessible to target audience of children in classroom settings
-- Boosted team efficiency by creating a file organization system for assets and design files
-
-</div>
-</div>
 </div>
 
 <div class="flexy">
@@ -135,6 +70,8 @@ Layout Designer </br>
 - Adobe CC Suite
 - Adobe XD
 - Sketch
+- Figma
+- Microsoft 365
 
 </div>
 <div class="flexy-item small-text">
@@ -145,7 +82,8 @@ Layout Designer </br>
 - JavaScript
 - Adobe After Effects
 - Premiere Pro
-- Microsoft Office
+- Blender
+
 
 </div>
 </div>
