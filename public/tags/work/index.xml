@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Rebecca Comas</title>
+    <link>http://localhost:1313/tags/work/</link>
+    <description>Recent content in Work on Rebecca Comas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thrive</title>
+      <link>http://localhost:1313/thrive-mailer/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thrive-mailer/</guid>
+      <description>Thrive Women&amp;rsquo;s Healthcare Event Invitation Mailer, Event graphics Druring my in-house design internship, I designed a mailer for Thrive&amp;rsquo;s annual fundraising dinner and graphics to be used on-site at the event. For this project, I designed every part of the mailer, including the envelope, seal, card and a RSVP insert, chose paper for each, and put careful thought into how the graphics and typography corresponded to the event&amp;rsquo;s theme. Thrive had a long list of contacts who it needed to send the mailer to, so I used Adobe InDesign&amp;rsquo;s automation tools to add the correct names and addresses to hundreds of envelopes quickly.</description>
+    </item>
+    <item>
+      <title>G5</title>
+      <link>http://localhost:1313/g5/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/g5/</guid>
+      <description>G5 Website Redesign Website Redesign G5 is a medical massage therapy machine producer who has been in the business for more than 50 years and is now a gold standard in the massage therapy industry. Used by professional athletes, physical therapists, and patients, G5 is known as a reliable producer of medical devices. However, G5&amp;rsquo;s website, which hadn&amp;rsquo;t been updated in nearly fifteen years when they came to us and was running on outdated web technology that made it difficult for them to edit the site&amp;rsquo;s content, was not a visual match for their reputation.</description>
+    </item>
+    <item>
+      <title>River City Football Club</title>
+      <link>http://localhost:1313/river-city/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/river-city/</guid>
+      <description>River City Football Club Landing Page Design River City Football Club is a premier youth soccer club based in St. Louis, Missouri, a city known for being the hometown of many professional soccer players. River FC helps players reach their full potential by offering a supportive, positive environment for young players to learn and grow.&#xA;Project Goals The purpose of this project was to create a landing page as a destination for a marketing campaign for River City FC’s soccer tryouts.</description>
+    </item>
+    <item>
+      <title>Simply Thick</title>
+      <link>http://localhost:1313/simply-thick/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/simply-thick/</guid>
+      <description>Modern Dysphagia Cooking Microsite Design SimplyThick produces a food and beverage thickener for people living with swallowing disorders, also know as dysphagia. Their cookbook, Modern Dysphagia Cooking, includes recipes for use with their thickening products.&#xA;Project Goals The purpose of this project was to create a website for SimplyThick to advertise their new book, Modern Dysphagia Cooking. The site needed to be engaging, give a preview of food from the book’s recipes, show that cooking for dysphagia can be delicious and fun, and ultimately point users to the link to purchase the book.</description>
+    </item>
+    <item>
+      <title>Thrive for Life Chiropractic</title>
+      <link>http://localhost:1313/thrive-chiro/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thrive-chiro/</guid>
+      <description>Thrive for Live Chiropractic Website Redesign, Stationery Design Thrive for Life Chiropractic is a holistic wellness center that provides chiropractic, massage therapy, and acupuncture services to the St. Louis region. To reflect Thrive&amp;rsquo;s mission to cultivate naturalistic health, I gave their site a redesign that features organic shapes and illustrations, playful colors, and curving structure to naturally guide the eye down the page. I used the same visual language on Thrive&amp;rsquo;s new print materials.</description>
+    </item>
+    <item>
+      <title>We Buy Exotics Microsite</title>
+      <link>http://localhost:1313/we-buy-exotics-microsites/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/we-buy-exotics-microsites/</guid>
+      <description>We Buy Exotics Microsites Design and Frontend Wordpress Development We Buy exotics is a luxury car buying service that makes it easy for luxury vehicle owners to sell or lease their car. Based in San Clemente, California, We Buy Exotics buys vehicles all over the United States.&#xA;Project Goals The aim of this project was to create a series of micro-sites to boost We Buy Exotic’s SEO. Each site would target a separate customer base of owners of a particular make of luxury car who are looking to sell or lease their car.</description>
+    </item>
+  </channel>
+</rss>

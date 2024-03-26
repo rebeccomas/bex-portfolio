@@ -1,6 +1,6 @@
 <div class="content has-text-centered">
     <p>
-        {{ with .Site.Params.Author }}
+        {{ with .Site.Params.Author.Name }}
             © {{ dateFormat "2006" now }}, {{ . }}.
         {{ end }} 
         {{ with .Site.Params.Copyright }}

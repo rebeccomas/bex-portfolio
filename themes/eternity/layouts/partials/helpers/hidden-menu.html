@@ -2,7 +2,7 @@
     {{ $IsNavbarPage := false }}
     {{ $currentPage := .Title }}
     {{ range $i, $el := .Site.Menus.main }}
-        {{ if eq $currentPage $el.Name }}
+        {{ if eq (lower $currentPage) (lower $el.Name) }}
             {{ if not $IsNavbarPage }}
                 {{ $IsNavbarPage = true }}
             {{ end }}

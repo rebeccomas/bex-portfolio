@@ -9,7 +9,9 @@ params:
   logo: bex-logo.png
   subtitle: I'm a web designer based in the St. Louis area.
   copyright: All rights reserved.
-  author: Rebecca Comas
+  author: 
+    name: 'Rebecca Comas'
+    email: '' # todo: set email
   dontShowSource: true
   portfolio:
     columns:

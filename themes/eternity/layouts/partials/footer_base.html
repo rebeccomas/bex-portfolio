@@ -3,7 +3,7 @@
         {{ with .Site.Params.Copyright }}
             {{ . }} <br>
         {{ end }}
-        {{ with .Site.Params.Author }}
+        {{ with .Site.Params.Author.Name }}
             © {{ dateFormat "2006" now }}, {{ . }}.
         {{ end }}
     </p>
