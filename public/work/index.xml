@@ -6,7 +6,7 @@
     <description>Recent content in work on Rebecca Comas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thrive</title>
@@ -14,6 +14,20 @@
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thrive-mailer/</guid>
       <description>Thrive Women&amp;rsquo;s Healthcare Event Invitation Mailer, Event graphics Druring my in-house design internship, I designed a mailer for Thrive&amp;rsquo;s annual fundraising dinner and graphics to be used on-site at the event. For this project, I designed every part of the mailer, including the envelope, seal, card and a RSVP insert, chose paper for each, and put careful thought into how the graphics and typography corresponded to the event&amp;rsquo;s theme. Thrive had a long list of contacts who it needed to send the mailer to, so I used Adobe InDesign&amp;rsquo;s automation tools to add the correct names and addresses to hundreds of envelopes quickly.</description>
+    </item>
+    <item>
+      <title>Hollenbeck Honey</title>
+      <link>http://localhost:1313/hollenbeck-honey/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hollenbeck-honey/</guid>
+      <description>Hollenbeck Honey Branding, 3D Graphics, and Website Design As part of my BFA capstone, I designed a website for Hollenbeck Honey Farm, created 3D graphics and animations for the website, and redesigned their visual identity.&#xA;Website The Hollenbeck Honey website uses 3D graphics to focus on the honey itself and the bees that produced it. On the home page, the user is greeted by a wave of honey that covers the title, and some friendly bees that buzz about the page.</description>
+    </item>
+    <item>
+      <title>Milkweed Mercantile</title>
+      <link>http://localhost:1313/milkweed-mercantile/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/milkweed-mercantile/</guid>
+      <description>The Milkweed Mercantile Branding, 3D Graphics, and Website Design The Milkweed Mercantile is an Eco-friendly B&amp;amp;B and Café. As part of my BFA capstone project, I redesigned the Mercantile&amp;rsquo;s visual identity and website, as well as 3D graphics and animations for the website.&#xA;Website The website is designed to give a scroll-based flyover tour of a 3D representation of the Milkweed Mercantile, progressing smoothly through pages about each of the Mercantile&amp;rsquo;s aspects.</description>
     </item>
     <item>
       <title>G5</title>
@@ -41,14 +55,14 @@
       <link>http://localhost:1313/thrive-chiro/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thrive-chiro/</guid>
-      <description>Thrive for Live Chiropractic Website Redesign, Stationery Design Thrive for Life Chiropractic is a holistic wellness center that provides chiropractic, massage therapy, and acupuncture services to the St. Louis region. To reflect Thrive&amp;rsquo;s mission to cultivate naturalistic health, I gave their site a redesign that features organic shapes and illustrations, playful colors, and curving structure to naturally guide the eye down the page. I used the same visual language on Thrive&amp;rsquo;s new print materials.</description>
+      <description>Thrive for Life Chiropractic Website Redesign, Stationery Design Thrive for Life Chiropractic is a holistic wellness center that provides chiropractic, massage therapy, and acupuncture services to the St. Louis region. To reflect Thrive&amp;rsquo;s mission to cultivate naturalistic health, I gave their site a redesign that features organic shapes and illustrations, playful colors, and curving structure to naturally guide the eye down the page. I used the same visual language on Thrive&amp;rsquo;s new print materials.</description>
     </item>
     <item>
       <title>We Buy Exotics Microsite</title>
       <link>http://localhost:1313/we-buy-exotics-microsites/</link>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/we-buy-exotics-microsites/</guid>
-      <description>We Buy Exotics Microsites Design and Frontend Wordpress Development We Buy exotics is a luxury car buying service that makes it easy for luxury vehicle owners to sell or lease their car. Based in San Clemente, California, We Buy Exotics buys vehicles all over the United States.&#xA;Project Goals The aim of this project was to create a series of micro-sites to boost We Buy Exotic’s SEO. Each site would target a separate customer base of owners of a particular make of luxury car who are looking to sell or lease their car.</description>
+      <description>We Buy Exotics Microsites Design and Frontend Wordpress Development We Buy Exotics is a luxury car buying service that makes it easy for luxury vehicle owners to sell or lease their car. Based in San Clemente, California, We Buy Exotics buys vehicles all over the United States.&#xA;Project Goals The aim of this project was to create a series of micro-sites to boost We Buy Exotic’s search engine optimization (SEO).</description>
     </item>
   </channel>
 </rss>
