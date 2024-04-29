@@ -26,9 +26,17 @@ The Hollenbeck Honey website uses 3D graphics to focus on the honey itself and t
 ![](/images/hollenbeck-honey/HollenbeckHoney_Home.png)
 ![](/images/hollenbeck-honey/HollenbeckHoney_Products.png)
 
-![](/images/hollenbeck-honey/HollenbeckHoney_Mobile_Menu.jpg)
-![](/images/hollenbeck-honey/HollenbeckHoney_Mobile_Home.jpg)
-![](/images/hollenbeck-honey/HollenbeckHoney_Mobile_Products.jpg)
+<div class="flexy">
+    <div class="flexy-item five-column-flex">
+        <img src="/images/hollenbeck-honey/HollenbeckHoney_Mobile_Menu.jpg">
+    </div>
+    <div class="flexy-item five-column-flex">
+        <img src="/images/hollenbeck-honey/HollenbeckHoney_Mobile_Products.jpg">
+    </div>
+    <div class="flexy-item two-column-flex">
+        <img src="/images/hollenbeck-honey/HollenbeckHoney_Mobile_Home.jpg">
+    </div>
+</div>
 
 ## 3D Graphics
 I created several 3D models for this project, including a honeybee model and several product models. I also developed materials for the models.
@@ -41,11 +49,24 @@ I created several 3D models for this project, including a honeybee model and sev
 ## Print Products
 In addition to the website and 3D graphics, I designed product labels and business cards to be used in the physical world by Hollenbeck Honey.
 
-![](/images/hollenbeck-honey/HollenbeckHoney_Logo.png)
-![](/images/hollenbeck-honey/HollenbeckHoney_Jars1.jpg)
-![](/images/hollenbeck-honey/HollenbeckHoney_Jars2.jpg)
-![](/images/hollenbeck-honey/HollenbeckHoney_BusinessCards_Front.png)
-![](/images/hollenbeck-honey/HollenbeckHoney_BusinessCards_Back.png)
+<div class="flexy two-column-flex">
+    <div class="flexy-item">
+        <img src="/images/hollenbeck-honey/HollenbeckHoney_Logo.png">
+        <div class="flexy two-column-flex">
+            <div class="flexy-item">
+                <img src="/images/hollenbeck-honey/HollenbeckHoney_BusinessCards_Front.png">
+            </div>
+             <div class="flexy-item">
+                <img src="/images/hollenbeck-honey/HollenbeckHoney_BusinessCards_Back.png">
+            </div>
+        </div>
+    </div>
+    <div class="flexy-item">
+        <img src="/images/hollenbeck-honey/HollenbeckHoney_Jars1.jpg">
+        <img src="/images/hollenbeck-honey/HollenbeckHoney_Jars2.jpg">
+    </div>
+</div>
+
 ![](/images/hollenbeck-honey/HollenbeckHoney_BusinessCards.jpg)
 
 </div>

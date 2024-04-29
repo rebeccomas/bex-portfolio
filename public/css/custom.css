@@ -253,6 +253,9 @@ h1 {
 .three-column-flex .flexy-item {
     flex-basis: 33%;
 }
+.four-column-flex .flexy-item {
+    flex-basis: 25%;
+}
 .five-column-flex > *{
     flex-basis: 20%
 }
