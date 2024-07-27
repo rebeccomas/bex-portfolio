@@ -12,6 +12,7 @@ url: we-buy-exotics-microsites
 hideTitle: true
 hideDate: true
 hideExif: true
+draft: true
 ---
 
 <div class="project-text">
