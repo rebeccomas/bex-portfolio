@@ -4,6 +4,7 @@ url: resume
 hideTitle: true
 hideExif: true
 hideDate: true
+draft: true
 ---
 <div class="button floating-button" style="margin-top: 10px;"><a href="/files/Rebecca-Comas-Resume-2024.pdf" target="_blank">Download Resume</a></div>
 

@@ -12,6 +12,7 @@ url: thrive-mailer
 hideTitle: true
 hideDate: true
 hideExif: true
+draft: true
 ---
 <div class="project-text">
 
