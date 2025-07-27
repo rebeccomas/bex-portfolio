@@ -28,6 +28,9 @@ params:
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/rebecca-comas-9b5615164/'
       landing: true
+    - icon: 'fa-brands fa-bluesky'
+      url: 'https://bsky.app/profile/rebeccacomas.bsky.social'
+      landing: true
     - icon: 'fa-brands fa-instagram'
       url: 'https://www.instagram.com/rebecca.comas?igsh=d21pZzdoYmI5bTFt'
       landing: true
