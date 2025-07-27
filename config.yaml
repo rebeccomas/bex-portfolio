@@ -7,7 +7,7 @@ googleAnalytics: ''
 params:
   image: /images/banner.png
   logo: bex-logo.png
-  subtitle: I'm a web designer based in the St. Louis area.
+  subtitle: I'm a graphic designer based in the St. Louis area.
   copyright: All rights reserved.
   author: 
     name: 'Rebecca Comas'
@@ -66,9 +66,6 @@ menu:
     - name: about
       url: /about/
       weight: 5
-    - name: resume
-      url: /resume/
-      weight: 6
     - name: contact
       url: /contact/
       weight: 7
