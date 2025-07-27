@@ -15,13 +15,23 @@ draft: true
 <div class="flexy three-column-flex">
 <div class="flexy-item">
 
-### Studio 2108
-Web/Graphic Designer </br>
-2021 - Present
+### Grimco, Inc.
+Graphic Designer </br>
+2024-2025
 
 <div class="small-text">
 
-I function as Web designer, UI/UX designer and frontend developer all in one. I have honed development skills in Wordpress, HTML and CSS and am able to take a website from ideation to launch and assist with the frontend development workload on most projects. I work in Adobe XD to create high-fidelity mockups, design  assets with Illustrator and Photoshop, and work within each client’s brand guidelines. I communicate with our clients directly to establish mutual clarity about their goals and my creative solutions. I work with my teammates, utilizing each other’s strengths. I manage my time effectively, and successfully handle urgent requests while staying on track with long-term project deadlines. I design for usability and accessibility, using W3C guidelines.
+Grimco is the largest distributor of products for the sign industry. As a designer with Grimco's marketing department, I use my versatility to create a variety of projects, including video, animation, 3D graphics, email marketing, web design, social media, documents, flyers, tradeshow signage, print samples, and more.
+
+</div>
+
+### Studio 2108
+Web/Graphic Designer </br>
+2021 - 2024
+
+<div class="small-text">
+
+I functioned as Web designer, UI/UX designer and frontend developer all in one. I have honed development skills in Wordpress, HTML and CSS and am able to take a website from ideation to launch and assist with the frontend development workload on most projects. I work in Adobe XD to create high-fidelity mockups, design  assets with Illustrator and Photoshop, and work within each client’s brand guidelines. I communicate with our clients directly to establish mutual clarity about their goals and my creative solutions. I work with my teammates, utilizing each other’s strengths. I manage my time effectively, and successfully handle urgent requests while staying on track with long-term project deadlines. I design for usability and accessibility, using W3C guidelines.
 
 </div>
 
